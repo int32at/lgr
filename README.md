@@ -5,7 +5,7 @@ Lgr is yet another Java Logging Framework
 Because, quite frankly, most logging frameworks are over-engineered and hard to use. Logging should be a "no-brainer" and not yet another tool that requires a couple of hours/days to set up. 
 
 ## Installation
-1. Copy `Lgr.java` into your project. 
+1. Copy [Lgr.java](src/at/int32/lgr/Lgr.java) into your project. 
 
 ## Usage
 ```java
